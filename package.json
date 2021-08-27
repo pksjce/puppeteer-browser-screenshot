@@ -1,0 +1,15 @@
+{
+  "name": "browser-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analytics.js",
+  "scripts": {
+    "ss": "node analytics.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
